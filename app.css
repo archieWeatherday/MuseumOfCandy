@@ -1,0 +1,17 @@
+body{
+	background-color: rgb(255, 181, 249);
+	font-family: Nunito;
+}
+#brand{
+	color: red;
+	opacity: 0.5;
+	font-size: 1.6rem;
+}
+#navlinks{
+	color: white;
+	font-size: 1.6rem;
+}
+.items:hover{
+	color: red !important;
+}
+
