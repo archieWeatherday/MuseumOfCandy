@@ -1,6 +1,7 @@
 body{
 	background-color: rgb(255, 181, 249);
 	font-family: Nunito;
+	font-size: 2rem;
 }
 #brand{
 	color: red;
@@ -13,5 +14,17 @@ body{
 }
 .items:hover{
 	color: red !important;
+}
+.moc{
+	font-size: 3rem;
+	color: white;
+}
+.slash{
+	color: red;
+}
+.text{
+	color: #f498b8;
+	font-size: 1rem;
+	width: 50%;
 }
 
